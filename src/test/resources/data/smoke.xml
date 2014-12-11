@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+	<datacontainer name="loginInfo" id="02">
+		<field name="user" value="kamolesh.bachar@yahoo.com"/>
+		<field name="pass" value="kamol1221"/>
+	</datacontainer>
+	
+</root>
